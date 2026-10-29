@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/himanshupphp/heal.ai/releases/download/v0.2.0/heal_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/himanshupphp/heal.ai/releases/download/v0.3.0/heal_0.3.0_windows_amd64.zip",
             "bin": [
                 "heal.exe"
             ],
-            "hash": "c966d7d0ea959887c73727fbcd348f8ff98665b8b4aaee8d7693a2b15afc045f"
+            "hash": "869ed87da49a84808bc697a1f2ed2cf334e6e2214e2bfa7140ca30637a39d5d4"
         },
         "arm64": {
-            "url": "https://github.com/himanshupphp/heal.ai/releases/download/v0.2.0/heal_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/himanshupphp/heal.ai/releases/download/v0.3.0/heal_0.3.0_windows_arm64.zip",
             "bin": [
                 "heal.exe"
             ],
-            "hash": "4fea3f5ec3ad14b3f97d985a55e37c9414110ec95d77d10408104de6618da7ae"
+            "hash": "dc7e6346d004beca4ec5f88ddf5d96ae1b774764cf708e4d0e1f0803474e5dd5"
         }
     },
     "homepage": "https://github.com/himanshupphp/heal.ai",
