@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/himanshupphp/heal.ai/releases/download/v0.1.0/heal_0.1.0_windows_amd64.zip",
+            "bin": [
+                "heal.exe"
+            ],
+            "hash": "0d9205171fec7f483567046454f83fc05daeb75c004673c166ad4993049fbfa3"
+        },
+        "arm64": {
+            "url": "https://github.com/himanshupphp/heal.ai/releases/download/v0.1.0/heal_0.1.0_windows_arm64.zip",
+            "bin": [
+                "heal.exe"
+            ],
+            "hash": "62d52c3f5b100e0e83efc4805c048448fe6f49251f0fd79b36601a56006cb36c"
+        }
+    },
+    "homepage": "https://github.com/himanshupphp",
+    "license": "MIT",
+    "description": "Wrap any command. When it fails, get an AI-proposed fix to approve."
+}
