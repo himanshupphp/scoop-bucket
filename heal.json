@@ -1,22 +1,22 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/himanshupphp/lazyfinger/releases/download/v0.1.0/heal_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/himanshupphp/lazyfinger/releases/download/v0.2.0/heal_0.2.0_windows_amd64.zip",
             "bin": [
                 "heal.exe"
             ],
-            "hash": "e64a9d295d41a943538da790c5763736932c2936ff371855e47c6d896909b0c2"
+            "hash": "74629d4b5f17641ddda9a7b0244ca63e2d4f6a1adb533a3523defd9cc52462ef"
         },
         "arm64": {
-            "url": "https://github.com/himanshupphp/lazyfinger/releases/download/v0.1.0/heal_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/himanshupphp/lazyfinger/releases/download/v0.2.0/heal_0.2.0_windows_arm64.zip",
             "bin": [
                 "heal.exe"
             ],
-            "hash": "4d3d4f40414727115e00ca4016b5ac31a9bea31bb64f9869517107de8c0db9bb"
+            "hash": "70c0a1c36edf55701bafcb67c2245056be3994851c1f8eb8b4bada4ecc71afd1"
         }
     },
-    "homepage": "https://github.com/himanshupphp",
+    "homepage": "https://github.com/himanshupphp/heal.ai",
     "license": "MIT",
     "description": "Wrap any command. When it fails, get an AI-proposed fix to approve."
 }
