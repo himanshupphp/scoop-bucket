@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/himanshupphp/lazyfinger/releases/download/v0.1.0/lazy_0.1.0_windows_amd64.zip",
+            "bin": [
+                "lazy.exe"
+            ],
+            "hash": "4faccdb2b3d71f22f99323077e71626ae4a7fbc962415d93e48ffe8a4454c13a"
+        },
+        "arm64": {
+            "url": "https://github.com/himanshupphp/lazyfinger/releases/download/v0.1.0/lazy_0.1.0_windows_arm64.zip",
+            "bin": [
+                "lazy.exe"
+            ],
+            "hash": "8b16dcde8031807f05d68d384276666999ccf9c8151a1fb84b1536e143dcdf57"
+        }
+    },
+    "homepage": "https://github.com/himanshupphp/lazyfinger",
+    "license": "MIT",
+    "description": "Wrap any command. When it fails, get an AI-proposed fix to approve."
+}
