@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/himanshupphp/lazyfinger/releases/download/v0.2.0/heal_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/himanshupphp/lazyfinger/releases/download/v0.3.0/heal_0.3.0_windows_amd64.zip",
             "bin": [
                 "heal.exe"
             ],
-            "hash": "74629d4b5f17641ddda9a7b0244ca63e2d4f6a1adb533a3523defd9cc52462ef"
+            "hash": "5f7b1cbc03c38455d3c980e4f643c2ad74e5414f2e843b2a0a061e5cc665d48b"
         },
         "arm64": {
-            "url": "https://github.com/himanshupphp/lazyfinger/releases/download/v0.2.0/heal_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/himanshupphp/lazyfinger/releases/download/v0.3.0/heal_0.3.0_windows_arm64.zip",
             "bin": [
                 "heal.exe"
             ],
-            "hash": "70c0a1c36edf55701bafcb67c2245056be3994851c1f8eb8b4bada4ecc71afd1"
+            "hash": "1fa021baa1c3fa909f9961517c245526f707c53360ec280d181a04751d506f4a"
         }
     },
     "homepage": "https://github.com/himanshupphp/heal.ai",
